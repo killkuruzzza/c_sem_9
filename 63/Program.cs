@@ -8,7 +8,6 @@ N = 6-> "1, 2, 3, 4, 5, 6"
 
 using System;
 using static System.Console;
-
 Clear();
 Write("Введите N: ");
 int n=int.Parse(ReadLine());

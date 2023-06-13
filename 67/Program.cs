@@ -17,11 +17,10 @@ while(m > 0){
 WriteLine($"{sum}");
 
 
-int SumNumbers(int number)
-{
+int SumNumbers(int number){
     if (number == 0)
         return 0;
-    return (number % 10 + SumNumbers(number / 10));
+    return number % 10 + SumNumbers(number / 10);
 }
 // Console.Clear();
 // Console.Write("Введите A: ");

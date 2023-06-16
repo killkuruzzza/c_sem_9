@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\bin\Debug\net6.0\67 NEW.exe
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\bin\Debug\net6.0\67 NEW.deps.json
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\bin\Debug\net6.0\67 NEW.runtimeconfig.json
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\bin\Debug\net6.0\67 NEW.dll
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\bin\Debug\net6.0\67 NEW.pdb
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\67 NEW.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\67 NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\67 NEW.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\67 NEW.AssemblyInfo.cs
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\67 NEW.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\67 NEW.dll
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\refint\67 NEW.dll
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\67 NEW.pdb
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\67 NEW.genruntimeconfig.cache
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\67 NEW\obj\Debug\net6.0\ref\67 NEW.dll

@@ -6,10 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-<<<<<<< HEAD:65/obj/Debug/net6.0/65.GeneratedMSBuildEditorConfig.editorconfig
-build_property.RootNamespace = _65
-build_property.ProjectDir = c:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65\
-=======
 build_property.RootNamespace = _61
-build_property.ProjectDir = c:\Users\Professional\Desktop\rabota\gb\с#\sem_91 — копия\61\
->>>>>>> 6b0098d3672900a1bc27168b055562977626f2e5:61/obj/Debug/net6.0/61.GeneratedMSBuildEditorConfig.editorconfig
+build_property.ProjectDir = c:\Users\Professional\Desktop\rabota\gb\с#\sem_91\61\

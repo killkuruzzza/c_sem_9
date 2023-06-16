@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\bin\Debug\net6.0\65_new.exe
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\bin\Debug\net6.0\65_new.deps.json
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\bin\Debug\net6.0\65_new.runtimeconfig.json
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\bin\Debug\net6.0\65_new.dll
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\bin\Debug\net6.0\65_new.pdb
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\65_new.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\65_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\65_new.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\65_new.AssemblyInfo.cs
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\65_new.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\65_new.dll
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\refint\65_new.dll
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\65_new.pdb
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\65_new.genruntimeconfig.cache
+C:\Users\Professional\Desktop\rabota\gb\с#\sem_91\65_new\obj\Debug\net6.0\ref\65_new.dll
